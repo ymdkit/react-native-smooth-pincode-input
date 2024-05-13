@@ -3,6 +3,7 @@ import React, { Component } from 'react';
 import {
   I18nManager,
   StyleSheet,
+  Text,
   TextInput,
   View,
 } from 'react-native';
